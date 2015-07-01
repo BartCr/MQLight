@@ -1,0 +1,9 @@
+apply plugin: 'application'
+
+description = 'MQLight jms compliance test suite'
+dependencies {
+    compile project(':MQLight-jms')
+    compile 'javax.jms:javax.jms-api:2.0.1'
+    compile 'org.apache.logging.log4j:log4j-core:2.3'
+    testCompile 'junit:junit:4.12'
+}

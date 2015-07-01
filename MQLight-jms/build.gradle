@@ -1,0 +1,10 @@
+apply plugin: 'application'
+
+description = 'MQLight jms client'
+dependencies {
+    compile project(':MQLight-client')
+    compile 'javax.jms:javax.jms-api:2.0.1'
+    testCompile 'junit:junit:4.12'
+}
+
+mainClassName = "be.cremers.mqlight.jms.MQLightJmsClient"

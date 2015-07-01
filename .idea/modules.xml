@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MQLight.iml" filepath="$PROJECT_DIR$/MQLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQLight-client/MQLight-client.iml" filepath="$PROJECT_DIR$/MQLight-client/MQLight-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQLight-core/MQLight-core.iml" filepath="$PROJECT_DIR$/MQLight-core/MQLight-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQLight-jms/MQLight-jms.iml" filepath="$PROJECT_DIR$/MQLight-jms/MQLight-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQLight-jms-cts/MQLight-jms-cts.iml" filepath="$PROJECT_DIR$/MQLight-jms-cts/MQLight-jms-cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MQLight-server/MQLight-server.iml" filepath="$PROJECT_DIR$/MQLight-server/MQLight-server.iml" />
+    </modules>
+  </component>
+</project>

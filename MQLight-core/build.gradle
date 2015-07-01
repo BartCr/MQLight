@@ -1,0 +1,5 @@
+
+description = 'MQLight core components'
+dependencies {
+    testCompile 'junit:junit:4.12'
+}

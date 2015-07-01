@@ -1,0 +1,10 @@
+apply plugin: 'application'
+
+description = 'MQLight server'
+dependencies {
+    compile project(':MQLight-core')
+    testCompile 'junit:junit:4.12'
+}
+
+mainClassName = "be.cremers.mqlight.server.MQLightServer"
+

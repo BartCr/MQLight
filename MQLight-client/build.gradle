@@ -1,0 +1,9 @@
+apply plugin: 'application'
+
+description = 'MQLight client'
+dependencies {
+    compile project(':MQLight-core')
+    testCompile 'junit:junit:4.12'
+}
+
+mainClassName = "be.cremers.mqlight.client.MQLightClient"
