@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/MQLight-jms" />
             <option value="$PROJECT_DIR$/MQLight-jms-cts" />
             <option value="$PROJECT_DIR$/MQLight-server" />
+            <option value="$PROJECT_DIR$/MQLight-stomp" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

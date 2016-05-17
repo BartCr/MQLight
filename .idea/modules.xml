@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MQLight.iml" filepath="$PROJECT_DIR$/MQLight.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MQLight-client/MQLight-client.iml" filepath="$PROJECT_DIR$/MQLight-client/MQLight-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MQLight-core/MQLight-core.iml" filepath="$PROJECT_DIR$/MQLight-core/MQLight-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MQLight-jms/MQLight-jms.iml" filepath="$PROJECT_DIR$/MQLight-jms/MQLight-jms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MQLight-jms-cts/MQLight-jms-cts.iml" filepath="$PROJECT_DIR$/MQLight-jms-cts/MQLight-jms-cts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MQLight-server/MQLight-server.iml" filepath="$PROJECT_DIR$/MQLight-server/MQLight-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client.iml" group="MQLight-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client_main.iml" group="MQLight-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-client/MQLight-client_test.iml" group="MQLight-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core.iml" group="MQLight-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core_main.iml" group="MQLight-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-core/MQLight-core_test.iml" group="MQLight-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms.iml" group="MQLight-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts.iml" group="MQLight-jms-cts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts_main.iml" group="MQLight-jms-cts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms-cts/MQLight-jms-cts_test.iml" group="MQLight-jms-cts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms_main.iml" group="MQLight-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-jms/MQLight-jms_test.iml" group="MQLight-jms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server.iml" group="MQLight-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server_main.iml" group="MQLight-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-server/MQLight-server_test.iml" group="MQLight-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp.iml" group="MQLight-stomp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp_main.iml" group="MQLight-stomp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MQLight-stomp/MQLight-stomp_test.iml" group="MQLight-stomp" />
     </modules>
   </component>
 </project>

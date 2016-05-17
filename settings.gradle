@@ -1,11 +1,13 @@
 rootProject.name = 'MQLight'
 include ':MQLight-core'
+include ':MQLight-stomp'
 include ':MQLight-server'
 include ':MQLight-client'
 include ':MQLight-jms'
 include ':MQLight-jms-cts'
 
 project(':MQLight-core').projectDir = "$rootDir/MQLight-core" as File
+project(':MQLight-stomp').projectDir = "$rootDir/MQLight-stomp" as File
 project(':MQLight-server').projectDir = "$rootDir/MQLight-server" as File
 project(':MQLight-client').projectDir = "$rootDir/MQLight-client" as File
 project(':MQLight-jms').projectDir = "$rootDir/MQLight-jms" as File
